@@ -1,10 +1,10 @@
 # K Deepak
 
-### Full-Stack Developer · Web · Mobile · Backend
+### Ai-Powered Software Engineer · Full-stack · Cloud & Devops · AI/ML
 
 I build end-to-end products, from APIs and data models to polished web and mobile experiences. I enjoy turning real operational problems into software people can use every day.
 
-**Core stack:** Flutter · Dart · React · TypeScript · FastAPI · Python · Go · PostgreSQL
+**Core stack:**  Python · Flutter · React · TypeScript · FastAPI · AWS · Docker · PostgreSQL
 
 **Open to full-stack, backend, and mobile engineering opportunities.**
 
